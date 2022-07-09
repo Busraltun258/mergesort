@@ -1,4 +1,5 @@
 # Merge sort sıralması 
+ www.patika.dev 
 - [16,21,11,8,12,22] -> Dizisinin sıralama aşamaları
 1. Dizi ortadan iki diziye ayrılır
 
